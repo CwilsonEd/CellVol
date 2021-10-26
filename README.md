@@ -8,7 +8,8 @@ When installing the program no additional libraries are required outside of the 
 
 This code features functionality to run both through Mercury and directly from the command line on single or multiple cif files.
 
-Command line inputs should be formulated >>python CellVol cifname pointsperrun no.runs precision
+Command line inputs should be formulated >>python CellVol cifname pointsperrun no.runs precision.
+
 For example:
    >>python GLYCIN05 1 16 0.1
 
