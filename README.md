@@ -13,7 +13,7 @@ This code features functionality to run both through Mercury and directly from t
 Command line inputs should be formulated >>python CellVol cifname pointsperrun no.runs precision.
 
 For example:
->>python GLYCIN05 1 16 0.1
+Directory >>python GLYCIN05 1 16 0.1
 
 will search the directory for GLYCIN05 before taking this CIF from the CSD and running it with 16 runs of a million points to a precision of 0.1%. 
 
